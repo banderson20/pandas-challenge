@@ -1,3 +1,3 @@
 # pandas-challenge
 
-My code is the the PyCitySchools_starter files in the PyCitySchool/Starter_Code/PyCitySchools file
+My code is the the PyCitySchools_starter file in the PyCitySchool/Starter_Code/PyCitySchools file
